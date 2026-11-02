@@ -1,19 +1,19 @@
 {
-    "version": "1.0.14",
+    "version": "1.0.15",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nickheyer/icebath/releases/download/v1.0.14/icebath_1.0.14_windows_amd64.zip",
+            "url": "https://github.com/nickheyer/icebath/releases/download/v1.0.15/icebath_1.0.15_windows_amd64.zip",
             "bin": [
                 "icebath.exe"
             ],
-            "hash": "9397863627d5fa00ef43c74ec1c1a09b8aeaad5c24123c7a875f024aef1d2d54"
+            "hash": "e25f29f7fe154b64e80879f25aae97fdd2e2e5b6934349c9d4d3ce683351947a"
         },
         "arm64": {
-            "url": "https://github.com/nickheyer/icebath/releases/download/v1.0.14/icebath_1.0.14_windows_arm64.zip",
+            "url": "https://github.com/nickheyer/icebath/releases/download/v1.0.15/icebath_1.0.15_windows_arm64.zip",
             "bin": [
                 "icebath.exe"
             ],
-            "hash": "39a92b9b1652182b669901d048de2fa4fa269c22be0df0c63f5a74433a9f8ae0"
+            "hash": "d5a94b94874f83f47cc62bdba923c6bef368d25a260a4cc4632df5b2b6fc9f7e"
         }
     },
     "homepage": "https://icebath.app",
